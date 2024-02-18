@@ -1,0 +1,66 @@
+body
+{
+background-image: url("photo.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+text-align: center;
+font-family: 'Happy Monkey', cursive;
+font-family: 'Orbitron', sans-serif;
+display: block;
+align-items: center;
+justify-content: center;
+}
+#h1
+{
+    color:teal;
+    font-size: 50px;
+}
+#count-el
+{
+font-size: 100px;
+color: rgb(0, 0, 0);
+}
+#button
+{
+    padding:6px 12px;
+    background: rgb(216, 21, 21);
+    font-family: 'Orbitron', sans-serif;
+    border: none;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgb(242, 242, 242);
+}
+#save-bt
+{
+    display: block;
+    margin: auto;
+    margin-top: 5px;
+    padding:6px 12px;
+    background: rgb(4, 222, 22);
+    font-family: 'Orbitron', sans-serif;
+    border: none;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgb(242, 242, 242);
+
+}
+#save-el
+{
+    color: rgb(242, 242, 242);
+    font-size: 25px;
+    
+}
+#reset
+{
+    display: block;
+    margin: auto;
+    margin-top: 5px;
+    padding:6px 12px;
+    background: rgb(25, 6, 235);
+    font-family: 'Orbitron', sans-serif;
+    border: none;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgb(242, 242, 242);
+
+}
